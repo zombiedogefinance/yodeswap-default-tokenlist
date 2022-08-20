@@ -3,7 +3,7 @@
     "timestamp": "2022-06-15T11:14:29.993Z",
     "version": {
         "major": 1,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tags": {},
@@ -124,6 +124,14 @@
             "name": "Doge Finance Token",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x97b8C7af1DCAa689aA91f7D14e59d400064E0E7F/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xb29923eDd4395867321615D9dDD6FfCa9237228A",
+            "name": "dumbdoge",
+            "symbol": "cDOGE",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xb29923eDd4395867321615D9dDD6FfCa9237228A/logo.png"
         }
     ]
 }
