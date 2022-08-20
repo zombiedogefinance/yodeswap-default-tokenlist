@@ -1,0 +1,121 @@
+{
+    "name": "Yodedex List",
+    "timestamp": "2022-06-15T11:14:29.993Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01/logo.png",
+    "keywords": [
+        "yodeswap",
+        "default"
+    ],
+    "tokens": [
+        {
+            "chainId": 2000,
+            "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+            "symbol": "WWDOGE",
+            "name": "Wrapped Doge",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
+            "symbol": "YODE",
+            "name": "Yodeswap Token",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+            "symbol": "WBTC",
+            "name": "WBTC Token",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+            "symbol": "USDC",
+            "name": "USDC Token",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+            "symbol": "DAI",
+            "name": "DAI Token",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+            "symbol": "USDT",
+            "name": "USDT Token",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+            "symbol": "ETH",
+            "name": "ETH Token",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x87b6bd987915b24361cf086490cB9F7e847e533d",
+            "symbol": "ASTRO",
+            "name": "AstroDoge",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0x87b6bd987915b24361cf086490cB9F7e847e533d/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x1b15b9446b9f632a78396a1680daae17f74ce8d9",
+            "symbol": "DOGEPUP",
+            "name": "DOGE PUP Token",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0x1b15b9446b9f632a78396a1680daae17f74ce8d9/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+            "symbol": "BNB",
+            "name": "Binance Coin",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+            "symbol": "BUSD",
+            "name": "Binance USD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x7FD7fc6f3dE86b0aC42c76F555C8A55587630494",
+            "symbol": "DAOGE",
+            "name": "Daoge Token",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0x7FD7fc6f3dE86b0aC42c76F555C8A55587630494/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xA734D321651CfE5E674D0fc051d531aFBaa044B3",
+            "symbol": "DRAGOGE",
+            "name": "Dragoge",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0xA734D321651CfE5E674D0fc051d531aFBaa044B3/logo.png"
+        }
+    ]
+}
