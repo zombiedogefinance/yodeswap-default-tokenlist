@@ -116,6 +116,14 @@
             "name": "Dragoge",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xA734D321651CfE5E674D0fc051d531aFBaa044B3/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x97b8C7af1DCAa689aA91f7D14e59d400064E0E7F",
+            "symbol": "DOFI",
+            "name": "Doge Finance Token",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x97b8C7af1DCAa689aA91f7D14e59d400064E0E7F/logo.png"
         }
     ]
 }
