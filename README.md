@@ -43,7 +43,7 @@ The contract address should follow the checksum address format \(see next requir
        "name":"Yodedex Token",
        "symbol":"YODE",
        "decimals":18,
-       "logoURI":"https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/assets/dogechain/0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01/logo.png"
+       "logoURI":"https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01/logo.png"
 
 },
 
