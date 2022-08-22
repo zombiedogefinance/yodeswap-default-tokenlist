@@ -132,6 +132,14 @@
             "symbol": "cDOGE",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xb29923eDd4395867321615D9dDD6FfCa9237228A/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x51e0416E66c4b1124316Da38ddd75898EA5E8C8b",
+            "symbol": "ZOMBIEDOGE",
+            "name": "Zombie Doge Finance Token",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x51e0416E66c4b1124316Da38ddd75898EA5E8C8b/logo.png"
         }
     ]
 }
